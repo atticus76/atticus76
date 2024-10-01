@@ -1,4 +1,6 @@
 ## Hi there 👋
+## My name is Atticus
+## I'm experimenting with GitHub and creating my own ReadMe file in my own repository...
 
 <!--
 **atticus76/atticus76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
