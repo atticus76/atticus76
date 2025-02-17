@@ -1,7 +1,6 @@
 # Hi there 👋
-My name is Atticus. 
-🔭I'm experimenting with GitHub as a place to keep my code.\
-👯I'm planning to introduce it to my classmates and use it to create a school project together remotely!\
+My name is Atticus. I'm experimenting with GitHub as a place to keep my code.\
+🔭I'm planning to introduce it to my classmates and use it to create a school project together remotely!\
 🌱I also plan on using online courses and public repository templates to learn about new things.
 
 <!--
