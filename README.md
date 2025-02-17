@@ -1,6 +1,7 @@
-## Hi there 👋
-## My name is Atticus
-## I'm experimenting with GitHub and creating my own ReadMe file in my own repository...
+# Hi there 👋
+My name is Atticus. I'm experimenting with GitHub as a place to keep my code.\
+🔭I'm planning to introduce it to my classmates and use it to create a school project together remotely!\
+🌱I also plan on using online courses and public repository templates to learn about new things.
 
 <!--
 **atticus76/atticus76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
